@@ -21,3 +21,5 @@ def area_piramide(aresta, altura_lateral):
     area_base = aresta ** 2
     area_faces = 2 * aresta * altura_lateral  # Área lateral simplificada
     return area_base + area_faces
+
+
