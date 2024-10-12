@@ -1,0 +1,4 @@
+aresta,altura_lateral,resultado_esperado
+-2,4,O comprimento da aresta e/ou da altura não pode ser negativo 
+3,-4,O comprimento da aresta e/ou da altura não pode ser negativo 
+-1,-1,O comprimento da aresta e/ou da altura não pode ser negativo
