@@ -43,3 +43,5 @@ def test_area_piramide_negativo():
         altura_lateral = float(row['altura_lateral'])
         with pytest.raises(ValueError):
             area_piramide(aresta, altura_lateral)
+
+            
